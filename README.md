@@ -5,3 +5,5 @@
 # Problem 2: The Result is 4613732
 
 # Problem 3: The Result is 6857
+
+# Problem 4: The Result is 906609
