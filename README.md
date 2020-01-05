@@ -9,3 +9,5 @@
 # Problem 4: The Result is 906609
 
 # Problem 5: The Result is 232792560
+
+# Problem 6: The Result is 25164150
