@@ -11,6 +11,7 @@
 
 print(r"Welcome to 'Project Euler' This is problem #4")
 
+# Sorting the numbers from smallest to biggest
 def bubble_sort(arr):
     n = len(arr)
     
@@ -24,28 +25,32 @@ def bubble_sort(arr):
 def Largest_Palindrome():
 
     # Definig storing structures
-    number = []
-    temp = 0
-    reverse = 0
+    palindrome = []     # Arrays of palindrome numbers
+    temp = 0            # A temporaly holder to compute reverse of number
+    reverse = 0         # Storing mirror image of the number
     
     for second in range(100,1000):
         for first in range(100,1000):
-            result = second * first
-            temp = result
+            result = second * first     # Multiplying all possible 3-digits numbers
+            temp = result               #  Keeping a copy of result for later use
             
+            # Reversing the result eg. 123 -> 321
             while (temp > 0):
                 digit = temp % 10
                 reverse = (reverse * 10) + digit
                 temp //= 10
             
+            # If is a palindrome when substract the original and the reverse
+            # it will be zero eg. 121 -> 121 => 121 - 121 = 0
             if (result - reverse == 0):
-                number.append(reverse)
-                #print(first, "*", second, "=", result)
+                palindrome.append(reverse)
+                #print(first, "*", second, "=", result)     #uncomment if want to see product of palindrome
 
             reverse = 0
     
-    bubble_sort(number)
-    print("\nThe Largest 3-digit number multiplied palindrome is:", number[len(number)-1])
+    bubble_sort(palindrome)
+
+    print("\nThe Largest 3-digit number multiplied palindrome is:", palindrome[len(palindrome)-1])
 
     #print("\nThe Largest 3-digit palindrome is:", result)
 
