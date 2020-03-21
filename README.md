@@ -11,3 +11,7 @@
 # Problem 5: The Result is 232792560
 
 # Problem 6: The Result is 25164150
+
+# Problem 7: The Result is ??
+
+# Problem 8: The Result is 23514624000
