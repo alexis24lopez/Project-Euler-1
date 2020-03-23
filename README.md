@@ -12,7 +12,7 @@
 
 # Problem 6: The Result is 25164150
 
-# Problem 7: The Result is ??
+# Problem 7: The Result is 104743
 
 # Problem 8: The Result is 23514624000
 
