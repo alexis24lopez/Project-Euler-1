@@ -17,3 +17,5 @@
 # Problem 8: The Result is 23514624000
 
 # Problem 9: The Result is 31875000, a = 200, b = 375, c = 425
+
+# Problem 10: The Result is 142913828922, the prime below 2,000,000 is: 1999993
