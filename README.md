@@ -20,4 +20,11 @@
 
 # Problem 10: The Result is 142913828922, the prime below 2,000,000 is: 1999993
 
+# Problem 11: The Result is ??
+
 # Problem 12: The Result is 76576500
+
+# Problem 13: The Result is 5537376230
+
+# Problem 14: The Result is 837799, it has 525 numbers
+
