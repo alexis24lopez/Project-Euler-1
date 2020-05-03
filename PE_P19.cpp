@@ -49,18 +49,19 @@ int zeller(int year, int month, int day);
 	
 	return 0;
  }
- 
+
 int zeller(int year, int month, int day)
- {
-	 int century = year / 100;
-	 int centuryYear = year % 100;
-	 
+ { 
 	 if (month <= 2){
 		 month += 10;
+		 year -= 1;
 		 
 	}else{
 		month -= 2;
 	}
+	 
+	 int century = year / 100;
+	 int centuryYear = year % 100;
 	 
 	 int dayOfWeek = (day + (((13 * month) - 1) / 5) + centuryYear + (centuryYear / 4) + (century / 4) - 2 * century) % 7;
 	 
