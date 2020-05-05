@@ -33,3 +33,5 @@
 # Problem 16: The Result is 1366
 
 # Problem 19: The Result is 171
+
+# Problem 20: The Result is 648
