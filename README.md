@@ -35,3 +35,5 @@
 # Problem 19: The Result is 171
 
 # Problem 20: The Result is 648
+
+# Problem 21: The Result is 31626
