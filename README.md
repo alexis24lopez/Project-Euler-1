@@ -37,3 +37,5 @@
 # Problem 20: The Result is 648
 
 # Problem 21: The Result is 31626
+
+# Problem 22: The Result is 871198282
