@@ -39,3 +39,5 @@
 # Problem 21: The Result is 31626
 
 # Problem 22: The Result is 871198282
+
+# Problem 23: The Result is 4179871
