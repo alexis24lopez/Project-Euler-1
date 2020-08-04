@@ -1,7 +1,7 @@
 /*********************************************************************************************************************
 * Project Euler
 * Problem 23
-* File name: PE_P23.py
+* File name: PE_P23.cpp
 * Compile: g++ PE_P23.cpp
 * Programer: Alexis Lopez
 * A perfect number is a number for which the sum of its proper divisors is exactly equal to the number.
