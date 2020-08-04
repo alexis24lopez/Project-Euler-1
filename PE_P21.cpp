@@ -1,7 +1,7 @@
 /*********************************************************************************************************************
 * Project Euler
 * Problem 4
-* File name: PE_P21.py
+* File name: PE_P21.cpp
 * Compile: python PE_P21.cpp
 * Programer: Alexis Lopez
 * Let d(n) be defined as the sum of proper divisors of n (numbers less than n which divide evenly into n).
