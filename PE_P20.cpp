@@ -1,7 +1,7 @@
 /*********************************************************************************************************************
 * Project Euler
 * Problem 4
-* File name: PE_P20.py
+* File name: PE_P20.cpp
 * Compile: python PE_P20.cpp
 * Programer: Alexis Lopez
 * Special Thanks for the geeks for geeks on helping on the code for multiplication.
