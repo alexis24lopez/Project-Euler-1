@@ -1,7 +1,7 @@
 /*********************************************************************************************************************
 * Project Euler
 * Problem 4
-* File name: PE_P22.py
+* File name: PE_P22.cpp
 * Compile: python PE_P22.cpp
 * Programer: Alexis Lopez
 * Using names.txt (right click and 'Save Link/Target As...'), a 46K text file containing over five-thousand first names,
