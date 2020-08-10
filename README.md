@@ -43,3 +43,5 @@
 # Problem 23: The Result is 4179871
 
 # Problem 24: The Result is 2783915460
+
+# Problem 25: The Result is 4782
