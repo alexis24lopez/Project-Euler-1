@@ -46,7 +46,7 @@ int main(){
 		count++;
 		
 		if (count == stop){
-			cout << number << endl;
+			cout << "\nThe " << stop << "'th lexicographic permutation is: " << number << endl;
 		}
 		
 	} while (next_permutation(number.begin(), number.end()));
